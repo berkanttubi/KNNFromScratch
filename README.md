@@ -1,3 +1,4 @@
+K-Nearest Neighbors Algorithm from scratch using Python with Cross-Validation method. 
 You can see 2 file named knn.py and main.py. Main file controls everything , on the other hand knn file includes the functions needed for knn algorithms. You can test the algorithm manually from the algorithm_test folder.
 
 ### knn.py
